@@ -24,11 +24,6 @@ I'm a passionate full-stack developer with a love for creating innovative soluti
 
 Checkout my pinned projects.
 
-## 🌱 Currently Learning
-
-- Exploring [GraphQL](https://graphql.org/) to enhance API development and improve data fetching efficiency.  
-- Learning about containerization with **Docker** for streamlined development and deployment.
-
 ## 📫 Let's Connect
 
 - LinkedIn: [Eugene Hezron](https://www.linkedin.com/in/eugene-hezron)
